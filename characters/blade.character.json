@@ -1,7 +1,7 @@
 {
     "name": "blade",
     "clients": ["twitter"],
-    "modelProvider": "openai",
+    "modelProvider": "akash_chat_api",
     "plugins": [],
     "settings": {
         "voice": {

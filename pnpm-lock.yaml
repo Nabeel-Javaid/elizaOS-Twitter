@@ -3118,7 +3118,7 @@ packages:
     peerDependencies:
       bitcoinjs-lib: ^7.0.0-rc.0
       bs58: ^6.0.0
-      viem: 2.21.58
+      viem: ^2.21.0
 
   '@braintree/sanitize-url@7.1.1':
     resolution: {integrity: sha512-i1L7noDNxtFyL5DmZafWy1wRVhGehQmzZaz1HiN5e7iylJMSZR7ekOV7NsIqa5qBldlLrsKv4HbgFUVlQrz8Mw==}
